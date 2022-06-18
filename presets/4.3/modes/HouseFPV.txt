@@ -4,7 +4,7 @@
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
 #$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 defaults
+#$ DESCRIPTION: HouseFPV modes
 
 # aux switch settings
 
